@@ -1,2 +1,0 @@
-hengmei = vmess, hengmeilife.com, 443, username=b9757fc4-dae3-4b04-d265-132bce7befb9, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/123, sni=hengmeilife.com, ws-headers=Host:hengmeilife.com, skip-cert-verify=false, tfo=false, udp-relay=true
-byheng = vmess, byheng.com, 17066, username=34fbfc5c-2f48-425e-e375-d720aae8dbf7, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/456, sni=byheng.com, ws-headers=Host:byheng.com, skip-cert-verify=false, tfo=false, udp-relay=true
